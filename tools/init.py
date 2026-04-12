@@ -42,6 +42,7 @@ def init_wiki(name, path=None):
         ("IDENTITY.md.template", "IDENTITY.md"),
         ("STYLE.md.template", "STYLE.md"),
         ("STANCE.md.template", "STANCE.md"),
+        ("LINKS.md.template", "LINKS.md"),
         ("index.md.template", "wiki/index.md"),
         ("log.md.template", "wiki/log.md"),
     ]

@@ -26,6 +26,7 @@
 ├── IDENTITY.md          # 身份定义模板
 ├── STYLE.md             # 说话风格模板
 ├── STANCE.md            # 核心立场模板
+├── LINKS.md             # 关联声明模板
 ├── raw/
 │   ├── untracked/
 │   └── ingested/
