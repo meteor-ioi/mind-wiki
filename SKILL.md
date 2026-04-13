@@ -81,6 +81,7 @@ user-invocable: true
 ├── IDENTITY.md          # 身份定义：我是谁、什么背景
 ├── STYLE.md             # 说话风格：语气、习惯、禁忌
 ├── STANCE.md            # 核心立场：价值观、基本态度
+├── LINKS.md             # 跨库关联：索引授权声明
 ├── raw/
 │   ├── untracked/       # 待处理新源
 │   └── ingested/        # 已处理源

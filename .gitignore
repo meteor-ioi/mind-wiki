@@ -13,6 +13,7 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+.playwright-cli
 
 # IDE
 .vscode/
@@ -24,4 +25,4 @@ Thumbs.db
 # Config
 config.json
 *.local
-temp/
+docs/
